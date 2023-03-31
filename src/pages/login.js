@@ -8,7 +8,7 @@ export default function Login() {
   const [cred, setCred] = useState(userModel);
   const { user, updateData } = userData();
   const [err, setErr] = useState({
-    color: "bg-red-700",
+    color: "bg-pink-600",
     errMsg: "",
     isErr: false,
   });
