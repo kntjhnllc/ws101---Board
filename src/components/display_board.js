@@ -11,7 +11,7 @@ export default function DisplayBoard() {
         if (boards.isLoggedIn) {
           return boards.data.map((data, i) => (
             <Link href={"/" + i} key={i}>
-              <div >
+              <div   >
               <div className="max-w-[400px] flex flex-col gap-4 border border-gray-200 p-4 rounded-md cursor-pointer">
                 <div className="mb-5">
                   <h1 className="font-bold text-lg">{data.title}</h1>

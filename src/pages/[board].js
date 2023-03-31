@@ -32,6 +32,7 @@ const Board = () => {
 
   return (
     <>
+      <div className="h-screen bg-cover bg-center bg-no-repeat bg-anime-bg">
       <Navbar />
       <div className="container mx-auto">
         <div className="mt-10">
@@ -73,6 +74,7 @@ const Board = () => {
             )}
           </div>
         </div>
+      </div>
       </div>
     </>
   );
