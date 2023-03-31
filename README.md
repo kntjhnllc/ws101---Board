@@ -5,13 +5,6 @@ https://user-images.githubusercontent.com/125941252/229036865-b1d8038c-d7bf-4c4e
 
 
 
-
-
-
-https://user-images.githubusercontent.com/125941252/223645693-8d2ccd04-7056-4bc3-ae2b-b819262afd86.mp4
-
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
